@@ -82,6 +82,6 @@
 	</dependencies>
 	<scm>
 		<connection>scm:git:git@github.com:jcbarker/hw2-jcb.git</connection>
-		<developerConnection>scm:git:git@github.com:jcbarker/hw1-jcb.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:jcbarker/hw2-jcb.git</developerConnection>
 	</scm>
 </project>
